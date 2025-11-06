@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Lenovo/Desktop/proj/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -IC:/mysql-connector-c++-9.5.0-winx64/include -IC:/mysql-connector-c++-9.5.0-winx64/include/jdbc -isystem C:/SFML-2.5.1/include -g -std=c++17 -o CMakeFiles\\Connect4Game.dir\\main.cpp.obj -c C:\\Users\\Lenovo\\Desktop\\proj\\main.cpp",
+  "file": "C:/Users/Lenovo/Desktop/proj/main.cpp",
+  "output": "C:/Users/Lenovo/Desktop/proj/build/CMakeFiles/Connect4Game.dir/main.cpp.obj"
+}
+]

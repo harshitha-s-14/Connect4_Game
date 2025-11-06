@@ -1,0 +1,33 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CMakeCXXLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CMakeCommonLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/Linker/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/Linker/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Linker/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Linker/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/WindowsPaths.cmake
+C:/SFML-2.5.1/lib/cmake/SFML/SFMLConfig.cmake
+C:/SFML-2.5.1/lib/cmake/SFML/SFMLConfigDependencies.cmake
+C:/SFML-2.5.1/lib/cmake/SFML/SFMLConfigVersion.cmake
+C:/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets-debug.cmake
+C:/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets-release.cmake
+C:/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets.cmake
+C:/Users/Lenovo/Desktop/proj/CMakeLists.txt
+C:/Users/Lenovo/Desktop/proj/build_vs/CMakeFiles/4.2.0-rc1/CMakeCXXCompiler.cmake
+C:/Users/Lenovo/Desktop/proj/build_vs/CMakeFiles/4.2.0-rc1/CMakeRCCompiler.cmake
+C:/Users/Lenovo/Desktop/proj/build_vs/CMakeFiles/4.2.0-rc1/CMakeSystem.cmake

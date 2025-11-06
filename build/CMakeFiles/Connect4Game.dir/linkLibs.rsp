@@ -1,0 +1,1 @@
+  -L"C:/SFML-3.0.2/lib"  -L"C:/mysql-connector-c++-9.5.0-winx64/lib64"  -lsfml-graphics -lsfml-window -lsfml-system -lmysqlcppconn-10-vs14 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
